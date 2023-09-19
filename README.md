@@ -63,3 +63,4 @@ Final result:
 
   ![image](https://github.com/EdgarH52/haptic_cane/assets/89591117/cfa76c4d-0a28-4965-acaa-9b826d5ad003)![image](https://github.com/EdgarH52/haptic_cane/assets/89591117/c2f21c13-aa92-489e-8f87-d401eaf94bd9)
 
+**Note**: This code uses definitions from Tivaware's tm4c123gh6pm header file. It also uses a a short UART and EEPROM library, as well as external waitMicrosecond() and initSystemClockTo40Mhz() functions. These are not included here.
